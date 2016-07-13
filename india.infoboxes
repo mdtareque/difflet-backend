@@ -1,0 +1,119 @@
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/small> "yes"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/right> "85"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/conventionalLongName> "Republic of India"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/nativeName> "Bhārat Gaṇarājya"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/commonName> "India"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/imageFlag> "Flag of India.svg"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/altFlag> "Horizontal tricolor flag bearing, from top to bottom, deep saffron, white, and green horizontal bands. In the center of the white band is a navy-blue wheel with 24 spokes."@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/imageCoat> "Emblem of India.svg"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/altCoat> "Three lions facing left, right, and toward viewer, atop a frieze containing a galloping horse, a 24-spoke wheel, and an elephant. Underneath is a motto: \"सत्यमेव जयते\"."@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/symbolType> "Emblem"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/nationalAnthem> "Jana Gana Mana"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/nationalAnthem> <http://dbpedia.org/resource/File:Jana_Gana_Mana_instrumental.ogg> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/otherSymbol> "National song:"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/otherSymbol> "Vande Mataram"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/imageMap> "India .svg"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/altMap> "Image of a globe centred on India, with India highlighted."@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/mapCaption> "Area controlled by India shown in dark green;"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/mapCaption> "claimed but uncontrolled regions shown in light green."@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/mapWidth> "250"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/New_Delhi> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/latd> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/latm> "36.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/latns> "N"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/longd> "77"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/longm> "12.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/longew> "E"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/largestCity> <http://dbpedia.org/resource/Mumbai> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/largestUrbanAgglomeration> <http://dbpedia.org/resource/National_Capital_Region_(India)> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/languagesType> <http://dbpedia.org/resource/National_language> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/languages> "None"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/religion> "79.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/religion> "14.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/religion> "2.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/religion> "1.7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/Indian_people> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Federalism> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Parliamentary_system> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Republic> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/President_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Pranab_Mukherjee> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Vice_President_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Mohammad_Hamid_Ansari> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Prime_Minister_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Narendra_Modi> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Chief_Justice_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/H._L._Dattu> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Speaker_of_the_Lok_Sabha> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Sumitra_Mahajan> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/Indian_Parliament> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/upperHouse> "Rajya Sabha"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/lowerHouse> "Lok Sabha"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/sovereigntyType> <http://dbpedia.org/resource/Indian_independence_movement> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/sovereigntyNote> "from the United Kingdom"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/establishedEvent> <http://dbpedia.org/resource/Dominion_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/establishedDate> "1947-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/establishedEvent> <http://dbpedia.org/resource/Republic> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/establishedDate> "1950-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/areaRank> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/areaMagnitude> "1000000000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/areaKm> "3287590"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/areaSqMi> "1269346"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/percentWater> "9.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationCensusRank> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationCensus> "1210193422"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationEstimateRank> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationEstimateYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationEstimate> "1276267000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationCensusYear> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/populationDensityRank> "31.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpPpp> "7.997E12"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpPppRank> "3.0"^^<http://dbpedia.org/datatype/rod> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpPppYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpPppPerCapita> "6266.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpPppPerCapitaRank> "124"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpNominal> "2.308E12"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpNominalRank> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpNominalYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpNominalPerCapita> "1808.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gdpNominalPerCapitaRank> "141.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/giniYear> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/gini> "33.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/giniRank> "79"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/hdiYear> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/hdiChange> "steady"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/hdi> "0.586"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Indian_rupee> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/currencyCode> "INR"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Indian_Standard_Time> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/utcOffset> "330.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/timeZoneDst> "not observed"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/utcOffsetDst> "330.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/dateFormat> "dd-mm-yyyy"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/drivesOn> <http://dbpedia.org/resource/Right-_and_left-hand_traffic> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/callingCode> <http://dbpedia.org/resource/Telephone_numbers_in_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/cctld> ".in"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/regionType> "National"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/title> "National symbols"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/flag> <http://dbpedia.org/resource/Flag_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/emblem> <http://dbpedia.org/resource/Emblem_of_India> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/anthem> "Jana Gana Mana"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/song> "Vande Mataram"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/calendar> <http://dbpedia.org/resource/Indian_national_calendar> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/animal> <http://dbpedia.org/resource/Tiger> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/animal> <http://dbpedia.org/resource/South_Asian_river_dolphin> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/bird> <http://dbpedia.org/resource/Indian_peafowl> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/flower> <http://dbpedia.org/resource/Nelumbo_nucifera> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/fruit> <http://dbpedia.org/resource/Mango> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/tree> <http://dbpedia.org/resource/Ficus_benghalensis> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/river> <http://dbpedia.org/resource/Ganges> .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/game> "Not declared"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/title> "International membership"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/b> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/commons> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/n> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/q> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/s> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/v> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/voy> "y"@en .
+<http://dbpedia.org/resource/India> <http://dbpedia.org/property/voySearch> "India"@en .

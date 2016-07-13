@@ -1,0 +1,12 @@
+get country codes and country name mappings from here to display flag
+    http://www.geonames.org/countries/IN/india.html
+or get from here
+    https://restcountries.eu/
+
+
+python api
+https://wikipedia.readthedocs.io/en/latest/quickstart.html
+
+
+downloaded ~10gb infobox properties and infobox definitions
+http://wiki.dbpedia.org/Downloads2015-10

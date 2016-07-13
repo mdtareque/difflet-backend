@@ -1,0 +1,169 @@
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/conventionalLongName> "People's Republic of China"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/commonName> "the People's Republic of China"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/imageFlag> "Flag of the People's Republic of China.svg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/imageCoat> "National Emblem of the People's Republic of China.svg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/symbolType> "National Emblem"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/imageMap> "People's Republic of China .svg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mapCaption> "Area controlled by the People's Republic of China shown in dark green; claimed but uncontrolled regions shown in light green."@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mapWidth> "220"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/nationalAnthem> "center"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/officialLanguages> <http://dbpedia.org/resource/Standard_Chinese> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languagesType> "Official written language"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languages> <http://dbpedia.org/resource/Written_vernacular_Chinese> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languagesSub> "yes"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languages2Type> <http://dbpedia.org/resource/Official_script> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languages> <http://dbpedia.org/resource/Simplified_Chinese_characters> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/languages2Sub> "yes"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/capital> "Beijing"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/latd> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/latm> "55"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/latns> "N"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/longd> "116"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/longm> "23"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/longew> "E"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/largestCity> <http://dbpedia.org/resource/Shanghai> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/demonym> "Chinese"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Socialism_with_Chinese_characteristics> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Single-party_state> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/President_of_the_People's_Republic_of_China> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderName> "Xi Jinping"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Premier_of_the_People's_Republic_of_China> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Li_Keqiang> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Chairman_of_the_National_People's_Congress> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Zhang_Dejiang> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Chairperson_of_the_Chinese_People's_Political_Consultative_Conference> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Yu_Zhengsheng> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderTitle> "President of the Supreme People's Court"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Zhou_Qiang> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/National_People's_Congress> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/sovereigntyType> <http://dbpedia.org/resource/History_of_China> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedEvent> "First Dynasty of China established during pre-imperial time"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedDate> "2100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedEvent> "First Unification of imperial China under the Qin Dynasty"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedDate> "221"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedEvent> <http://dbpedia.org/resource/Xinhai_Revolution> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedDate> "1912-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedEvent> <http://dbpedia.org/resource/Chinese_Civil_War> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/establishedDate> "1949-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/areaKm> "9596961"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/areaSqMi> "3705407"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/areaRank> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/areaMagnitude> "1000000000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/percentWater> "0.28"^^<http://dbpedia.org/datatype/perCent> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationEstimate> "1376049000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationEstimateRank> "1.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationEstimateYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationCensus> "1339724852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationCensusYear> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationCensusRank> "1.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationDensityKm> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationDensitySqMi> "373"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/populationDensityRank> "83.0"^^<http://dbpedia.org/datatype/rod> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpNominal> "1.1212E13"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpNominalRank> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpNominalYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpNominalPerCapita> "8154.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpNominalPerCapitaRank> "75"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpPppYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpPpp> "1.8976E13"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpPppRank> "1.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpPppPerCapita> "13801.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gdpPppPerCapitaRank> "87"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/giniYear> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gini> "55"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hdiYear> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hdiChange> "increase"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hdi> "0.719"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hdiRank> "91.0"^^<http://dbpedia.org/datatype/stone> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/currency> "Renminbi (yuan)"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/currencyCode> "CNY"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Time_in_China> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/utcOffset> "+8"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/drivesOn> "right"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/callingCode> <http://dbpedia.org/resource/Telephone_numbers_in_China> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/collapse> "no"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/p> "Zhōngguó"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/w> "Chung1-kuo2"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/bpmf> "ㄓㄨㄥ ㄍㄨㄛˊ"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/xej> "ﺟْﻮ ﻗُﻮَع"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/tp> "Jhongguó"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mps> "Jūng-guó"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gr> "Jong'gwo"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/poj> "Tiong-kok"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gan> "Tung-koe̍t"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hsn> "/tan33 kwɛ24/"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/wuu> "Tson平 koh入"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/j> "Zung1 gwok3"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/y> "Jūnggwok"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/h> "Dung24 Gued2"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/buc> "Dṳ̆ng-guók"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hhbuc> "De̤ng-go̤h"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mblmc> "Dô̤ng-gŏ"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/l> "Middle Kingdom"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/p> "Zhōnghuá Rénmín Gònghéguó"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/bpmf> "ㄓㄨㄥ ㄏㄨㄚˊ ㄖㄣˊ ㄇㄧㄣˊ ㄍㄨㄥˋ ㄏㄜˊ ㄍㄨㄛˊ"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/xej> "ﺟْﻮ ﺧُﻮَ ژٌ مٍ ﻗْﻮ حْ ﻗُﻮَع"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/poj> "Tiong-hôa jîn-bîn kiōng-hô-kok"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/gan> "Chungfa Ninmin Khungfokoet"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/wuu> "Tson平 gho平 zin平 min平 gon去 ghu平 koh入"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/j> "Zung1 waa4 jan4 man4 gung6 wo4 gwok3"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/y> "Jūngwàh Yàhnmàhn Guhngwòhgwok"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hsn> "/tan33 go13 ŋin13 min13 gan45 gu13 kwɛ24/"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/h> "Dung24 fa11 ngin11 min11 kiung55 fo11 gued2"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/buc> "Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hhbuc> "De̤ng-huá Cíng-míng Gē̤ng-hó̤-go̤h"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mblmc> "Dô̤ng-uǎ Nêng-měng Gō̤ng-uǎ-gŏ"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/mon> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/monr> "Bügüde nayiramdaqu dumdadu arad ulus"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/wylie> "krung hwa mi dmangs spyi mthun rgyal khab"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/zwpy> "Zhunghua Mimang Jitun Gyalkab"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/uig> "جۇڭخۇا خەلق جۇمھۇرىيىت"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/uly> "Jungxua Xelq Jumhuriyiti"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/sgs> "Junghua Hälk̂ Jumĥuriyiti"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/usy> "Җуңхуа Хәлқ Җумһурийити"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/zha> "Cunghvaz Yinzminz Gunghozgoz"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/order> "st"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/s> "中华人民共和国"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/hp> "Zhōnghuá Rénmín Gònghéguó"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/s> <http://dbpedia.org/resource/Wikt:中华> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/links> "no"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/align> "right"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/direction> "vertical"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/width> "180"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/image> "China 100.78713E 35.63718N.jpg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "A composite satellite image showing the topography of China"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/image> "Longji terrace - 03.JPG"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "Longsheng Rice Terrace in Guangxi"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/image> "漓江山水.jpg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "The Li River in Guangxi"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/align> "left"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/image> "Sanya Sun Photo by Dale Preston.jpg"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "The South China Sea coast at Hainan"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/image> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "Jiuzhaigou Valley in Sichuan"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/height> "150"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "The Port of Shanghai's deep water harbour on Yangshan Island in the Hangzhou Bay became the world's busiest container port in 2010"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/caption> "Religion in China"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> "Not religious, traditional worship, or Taoism"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "87.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "AntiqueWhite"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Buddhism> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "6.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "Gold"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Christianity> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "2.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "DodgerBlue"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Chinese_salvationist_religions> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "2.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "GreenYellow"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Islam> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "1.7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "Green"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/label> "Other faiths"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/value> "0.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/color> "HotPink"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/east> <http://dbpedia.org/resource/Yellow_Sea> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/east> <http://dbpedia.org/resource/East_China_Sea> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/southeast> <http://dbpedia.org/resource/South_China_Sea> .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/title> "Geographic locale"@en .
+<http://dbpedia.org/resource/China> <http://dbpedia.org/property/title> "International membership"@en .
