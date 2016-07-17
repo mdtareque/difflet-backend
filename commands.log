@@ -1,0 +1,28 @@
+2016-07-13.09:34:30 /home/mtk/Downloads/wiki  2004  split -l 900000 infobox_properties_en.ttl
+2016-07-13.09:38:45 /home/mtk/Downloads/wiki  2008  watch "ls -1 x* | wc"
+2016-07-13.09:38:47 /home/mtk/Downloads/wiki  2009  ls -lrth
+2016-07-13.09:38:51 /home/mtk/Downloads/wiki  2010  du . -sh
+2016-07-13.09:38:54 /home/mtk/Downloads/wiki  2011  ls
+2016-07-13.09:38:58 /home/mtk/Downloads/wiki  2012  ls -1 x* | wc
+2016-07-13.09:39:13 /home/mtk/Downloads/wiki  2013  grep -i india x*
+2016-07-13.09:39:16 /home/mtk/Downloads/wiki  2014  grep -i india x* -l
+2016-07-13.09:39:25 /home/mtk/Downloads/wiki  2015  grep -i india x*
+2016-07-13.09:39:39 /home/mtk/Downloads/wiki  2016  grep "/India" x*
+2016-07-13.09:39:50 /home/mtk/Downloads/wiki  2017  grep "/India>" x*
+2016-07-13.09:40:16 /home/mtk/Downloads/wiki  2018  egrep "^[a-zA-Z/.]*/India>" x*
+2016-07-13.09:40:22 /home/mtk/Downloads/wiki  2019  egrep "^[a-zA-Z]*/India>" x*
+2016-07-13.09:41:11 /home/mtk/Downloads/wiki  2020  egrep "^<http://dbpedia.org/resource/India>" x*
+2016-07-13.09:41:26 /home/mtk/Downloads/wiki  2021  egrep "^<http://dbpedia.org/resource/India>" x* > india.infoboxes
+2016-07-13.09:41:43 /home/mtk/Downloads/wiki  2022  egrep "^<http://dbpedia.org/resource/India>" xa* > india.infoboxes
+2016-07-13.09:41:46 /home/mtk/Downloads/wiki  2023  egrep "^<http://dbpedia.org/resource/India>" xaa > india.infoboxes
+2016-07-13.09:41:57 /home/mtk/Downloads/wiki  2024  egrep "^<http://dbpedia.org/resource/Mercury" x*
+2016-07-13.09:42:16 /home/mtk/Downloads/wiki  2025  egrep "^<http://dbpedia.org/resource/Mercury_Pl" x*
+2016-07-13.09:42:20 /home/mtk/Downloads/wiki  2026  egrep "^<http://dbpedia.org/resource/Mercury_pl" x*
+2016-07-13.09:42:23 /home/mtk/Downloads/wiki  2027  egrep "^<http://dbpedia.org/resource/Mercury_(pl" x*
+2016-07-13.09:42:32 /home/mtk/Downloads/wiki  2028  egrep "^<http://dbpedia.org/resource/Mercury_\(pl" x*
+2016-07-13.09:44:02 /home/mtk/Downloads/wiki  2029  vim india.infoboxes
+2016-07-13.09:44:15 /home/mtk/Downloads/wiki  2030  egrep "^<http://dbpedia.org/resource/China" x*
+2016-07-13.09:44:19 /home/mtk/Downloads/wiki  2031  egrep "^<http://dbpedia.org/resource/China>" x*
+2016-07-13.09:44:23 /home/mtk/Downloads/wiki  2032  egrep "^<http://dbpedia.org/resource/China>" xaa > china.infoboxes
+2016-07-13.09:53:05 /home/mtk/Downloads/wiki  2033  vim china.infoboxes
+
