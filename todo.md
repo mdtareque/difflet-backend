@@ -26,3 +26,5 @@ downloaded ~10gb infobox properties and infobox definitions
 -http://wiki.dbpedia.org/Downloads2015-10 
 http://downloads.dbpedia.org/2015-10/core-i18n/en/infobox_properties_en.ttl.bz2
 
+### Properties Doc
+https://docs.google.com/document/d/1Mwz2o0V8xeFkfe-o7ViLpm8gU9GIPyCrbDrCChrjhWo/edit?ts=578e536d

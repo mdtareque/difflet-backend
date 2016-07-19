@@ -1,0 +1,157 @@
+nativeName Canada
+commonName Canada
+imageFlag Flag of Canada.svg
+altFlag Vertical triband  with a red maple leaf in the centre
+symbolType Coat of Arms
+nationalAnthem \
+royalAnthem \
+imageMap Canada .svg
+altMap Projection of North America with Canada in green
+mapWidth 220
+capital Ottawa
+latd 45
+latm 24
+latns N
+longd 75
+longm 40
+longew W
+largestCity Toronto
+officialLanguages English
+officialLanguages French
+regionalLanguages Chipewyan_language
+regionalLanguages Cree_language
+regionalLanguages Gwich’in_language
+regionalLanguages Inuinnaqtun
+regionalLanguages Inuktitut
+regionalLanguages Inuvialuktun
+regionalLanguages Slavey_language
+regionalLanguages Dogrib_language
+ethnicGroups 76.7
+ethnicGroups European_Canadian
+ethnicGroups 14.2
+ethnicGroups Asian_Canadian
+ethnicGroups 4.3
+ethnicGroups Aboriginal_peoples_in_Canada
+ethnicGroups 2.9
+ethnicGroups Black_Canadians
+ethnicGroups 1.2
+ethnicGroups Latin_American_Canadian
+ethnicGroups 0.5
+ethnicGroups Multiracial
+ethnicGroups 0.3
+ethnicGroups Canada_2011_Census
+demonym Canadian
+governmentType Federalism
+governmentType Parliamentary_system
+governmentType Constitutional_monarchy
+leaderTitle Monarchy_of_Canada
+leaderName Elizabeth_II
+leaderTitle Governor_General_of_Canada
+leaderName David_Johnston
+leaderTitle Prime_Minister_of_Canada
+leaderName Stephen_Harper
+leaderTitle Chief_Justice_of_Canada
+leaderName Beverley_McLachlin
+legislature Parliament_of_Canada
+upperHouse Senate_of_Canada
+lowerHouse House_of_Commons_of_Canada
+sovereigntyType Canadian_Confederation
+sovereigntyNote from the United Kingdom
+establishedEvent Constitution_Act,_1867
+establishedDate 1867-07-01
+establishedEvent Statute_of_Westminster_1931
+establishedDate 1931-12-11
+establishedEvent Patriation
+establishedDate 1982-04-17
+areaKm 9984670
+areaSqMi 3854085
+areaRank 2
+areaMagnitude 1000000000000
+percentWater 8.92
+populationEstimate 35749600
+populationEstimateYear Q2 2015
+populationEstimateRank 37
+populationCensus 33476688
+populationCensusYear 2011
+populationDensityKm 3.41
+populationDensitySqMi 8.3
+populationDensityRank 228
+gdpPpp 1.64E12
+gdpPppRank 15
+gdpPppYear 2015
+gdpPppPerCapita 45722.0
+gdpPppPerCapitaRank 20
+gdpPppPerCapitaYear 2015
+gdpNominal 1.615E12
+gdpNominalRank 11
+gdpNominalYear 2015
+gdpNominalPerCapita 45028.0
+gdpNominalPerCapitaRank 15
+gdpNominalPerCapitaYear 2015
+giniYear 2010
+gini 33.7
+giniRank 103.0
+hdiYear 2013
+hdiChange steady
+hdi 0.902
+hdiRank 8
+currency Canadian_dollar
+currencyCode CAD
+utcOffset −3.5 to −8
+utcOffsetDst −2.5 to −7
+dateFormat dd-mm-yyyy
+dateFormat mm-dd-yyyy
+dateFormat yyyy-mm-dd
+drivesOn right
+callingCode Telephone_numbers_in_Canada
+cctld .ca
+thumb right
+caption Self-reported ethnic origins of Canadians
+label European_Canadian
+value 76.7
+color Blue
+label Asian_Canadian
+value 14.2
+color Gray
+label Aboriginal_peoples_in_Canada
+value 4.3
+color Gold
+label Black_Canadians
+value 2.9
+color Green
+label Latin_American_Canadian
+value 1.2
+color Red
+label Ethnic_origins_of_people_in_Canada
+value 0.5
+color Black
+value 0.3
+color White
+caption Religion in Canada
+label Catholicism_in_Canada
+value 38.7
+color DarkOrchid
+label Other Christian
+value 28.6
+color DodgerBlue
+label Irreligion_in_Canada
+value 23.9
+label Islam_in_Canada
+value 3.2
+color MediumSeaGreen
+label Hinduism_in_Canada
+value 1.5
+color Crimson
+label Sikhism_in_Canada
+value 1.4
+color Orange
+label Buddhism_in_Canada
+value 1.1
+label History_of_the_Jews_in_Canada
+value 1
+color Turquoise
+label Other religions
+value 0.6
+color HotPink
+title 20
+titlestyle color:black; background-color:white;
