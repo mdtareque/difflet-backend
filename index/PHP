@@ -1,0 +1,47 @@
+logo File:PHP_Logo.png
+caption PHP: Hypertext Preprocessor
+fileExt .php, .phtml, .php3, .php4, .php5, .phps
+paradigm Imperative_programming
+paradigm Functional_programming
+paradigm Object-oriented_programming
+paradigm Procedural_programming
+paradigm Reflection_(computer_programming)
+designer Rasmus_Lerdorf
+developer The PHP Group
+latestReleaseVersion 5.6
+latestPreviewVersion 7
+frequentlyUpdated yes
+typing Type_system
+typing Strong_and_weak_typing
+implementations Zend_Engine
+implementations HipHop_Virtual_Machine
+implementations Phalanger_(compiler)
+implementations Resin_(software)
+implementations Project_Zero
+implementations Parrot_virtual_machine
+influencedBy Perl
+influencedBy C_(programming_language)
+influencedBy C++
+influencedBy Java_(programming_language)
+influencedBy Tcl
+influenced Hack_(programming_language)
+programmingLanguage C
+operatingSystem Cross-platform
+license PHP License
+website <http:/php.net> .
+wikibooks PHP Programming
+align left
+width 105
+image Rasmus Lerdorf cropped.jpg
+image Andi Gutmans 1.jpg
+image Zeev Suraski 2005 cropped.jpg
+footer Rasmus Lerdorf, who wrote the original Common Gateway Interface  component, together with Andi Gutmans and Zeev Suraski, who rewrote the parser that formed PHP 3.
+wikt no
+commons Category:PHP
+v Topic:PHP
+n no
+q no
+s no
+b PHP Programming
+voy no
+mw PHP

@@ -1,0 +1,124 @@
+name Mars
+symbol 25
+bgcolour #a0ffa0
+caption Mars imaged by the
+caption Hubble Space Telescope in 2003
+orbitRef  
+epoch Epoch_(astronomy)
+eccentricity orbital eccentricity
+period sols
+synodicPeriod 6.738854400000001E7
+synodicPeriod 2.135
+inclination 1.85
+inclination 5.65
+inclination 1.67
+ascNode 49.562
+argPeri 286.537
+satellites 2
+allsatellites yes
+physicalCharacteristics yes
+equatorialRadius  
+equatorialRadius 0.533
+polarRadius  
+polarRadius 0.531
+meanRadius  
+surfaceArea 0.284
+volume 0.151
+mass 0.107
+surfaceGrav 0.376
+escapeVelocity 5.027
+axialTilt 25.19
+albedo 0.17
+albedo 0.25
+magnitude +1.6 to −3.0
+angularSize 3.5
+temperatures yes
+tempName Kelvin
+minTemp 130.0
+meanTemp 210.0
+maxTemp 308.0
+tempName Celsius
+minTemp -143.0
+meanTemp -63.0
+maxTemp 35.0
+adjectives Martian
+atmosphere yes
+surfacePressure 0.636
+atmosphereComposition * 95.97%
+atmosphereComposition Carbon_dioxide
+atmosphereComposition * 1.93%
+atmosphereComposition Argon
+atmosphereComposition * 1.89%
+atmosphereComposition Nitrogen
+atmosphereComposition * 0.146%
+atmosphereComposition Oxygen
+atmosphereComposition * 0.0557%
+atmosphereComposition Carbon_monoxide
+atmosphereComposition * 210
+atmosphereComposition Parts-per_notation
+atmosphereComposition water vapor\n* 100 ppm
+atmosphereComposition Nitric_oxide
+atmosphereComposition * 15 ppm
+atmosphereComposition Hydrogen
+atmosphereComposition * 2.5 ppm
+atmosphereComposition Neon
+atmosphereComposition * 850
+atmosphereComposition Parts-per_notation
+atmosphereComposition Heavy_water
+atmosphereComposition * 300 ppb
+atmosphereComposition Krypton
+atmosphereComposition * 130 ppb
+atmosphereComposition Formaldehyde
+atmosphereComposition * 80 ppb
+atmosphereComposition Xenon
+atmosphereComposition * 18 ppb
+atmosphereComposition Hydrogen_peroxide
+atmosphereComposition * 10 ppb
+atmosphereComposition Methane
+direction vertical
+align left
+width 150
+image Mars, Earth size comparison.jpg
+image Mars.ogv
+caption Mars compared to Earth
+caption Animation  showing major features
+image Martian north polar cap.jpg
+caption North polar early summer ice cap
+image South Polar Cap of Mars during Martian South summer 2000.jpg
+caption South polar midsummer ice cap
+image PIA16450-MarsDustStorm-20121118.jpg
+image PIA16454-MarsDustStorm-20121125.jpg
+caption 2012-11-18
+caption 2012-11-25
+header Dust storm on Mars.
+footer Opportunity and Curiosity rovers are noted.
+totalWidth 600
+align center
+title --10-19
+width 2560
+height 1600
+image PIA18611-Mars-CometSidingSpringFlyby-20141009.jpg
+caption POV: Universe
+width 786
+height 385
+image CometSidingSpring-HeadingTowardsMars-ArtistConcept-20141006.jpg
+caption POV: Comet
+width 1080
+height 668
+image Comet-SidingSpring-Passing-PlanetMars-On-20141019-ArtistConcept-20140905.jpg
+caption POV: Mars
+width 200
+image Karte Mars Schiaparelli MKL1888.png
+image Lowell Mars channels.jpg
+image Mars HST Mollweide map 1999.png
+caption Map of Mars by Giovanni Schiaparelli
+caption Mars sketched as observed by Lowell sometime before 1914.
+caption Map of Mars from Hubble Space Telescope as seen near the 1999 opposition.
+align right
+image Phobos colour 2008.jpg
+image Deimos-MRO.jpg
+width 180
+caption Enhanced-color HiRISE image of Phobos, showing a series of mostly parallel grooves and crater chains, with its crater Stickney at right
+caption Enhanced-color HiRISE image of Deimos , showing its smooth blanket of regolith.
+colwidth 30
+refs ri

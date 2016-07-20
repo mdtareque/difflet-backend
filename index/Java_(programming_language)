@@ -1,0 +1,57 @@
+small yes
+expiry indef
+name Java
+logo File:Java_logo.png
+paradigm multi-paradigm: object-oriented , structured, imperative, generic, reflective, concurrent
+designer James Gosling and
+designer Sun_Microsystems
+developer Oracle_Corporation
+writtenIn C++
+latestReleaseVersion Java Standard Edition 8 Update 60
+latestPreviewVersion Java Standard Edition 9 Early Access b76
+typing Type_system
+typing Nominal_type_system
+typing Manifest_typing
+implementations OpenJDK
+implementations GNU_Compiler_for_Java
+implementations Category:Java_virtual_machine
+influencedBy Ada_(programming_language)
+influencedBy C++
+influencedBy C_Sharp_(programming_language)
+influencedBy Eiffel_(programming_language)
+influencedBy Generic_Java
+influencedBy Mesa_(programming_language)
+influencedBy Modula-3
+influencedBy Oberon_(programming_language)
+influencedBy Objective-C
+influencedBy UCSD_Pascal
+influenced Ada_(programming_language)
+influenced BeanShell
+influenced C_Sharp_(programming_language)
+influenced Clojure
+influenced ECMAScript
+influenced Groovy_(programming_language)
+influenced J_Sharp
+influenced JavaScript
+influenced Kotlin_(programming_language)
+influenced PHP
+influenced Python_(programming_language)
+influenced Scala_(programming_language)
+influenced Seed7
+influenced Vala_(programming_language)
+influenced Hack_(programming_language)
+dialects Generic_Java
+dialects Pizza_(programming_language)
+programmingLanguage C and C++
+operatingSystem Cross-platform
+license GNU_General_Public_License
+license Java_Community_Process
+website <https://www.java.com/> .
+website <http://www.oracle.com/technetwork/java/> .
+fileExt .java , .class, .jar
+wikibooks Java Programming
+wikt Java
+commons Category:Java
+v Java
+s no
+b Subject:Java programming language

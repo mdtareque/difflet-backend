@@ -1,0 +1,55 @@
+name Neptune
+symbol 20
+imagesize 350
+caption The picture shows the Great Dark Spot and its companion bright smudge; on the west limb the fast moving bright feature called Scooter and the little dark spot are visible.
+discovery yes
+discoverer *
+discoverer Urbain_Le_Verrier
+discoverer Johann_Gottfried_Galle
+discovered 1846-09-23
+epoch Epoch_(astronomy)
+period 5.20069248E9
+period Neptunian solar days
+synodicPeriod 3.1751136E7
+avgSpeed 5.43
+inclination to ecliptic
+inclination 6.43
+inclination 0.72
+satellites 14
+physicalCharacteristics yes
+equatorialRadius 3.883
+polarRadius 3.829
+surfaceArea 14.98
+volume 57.74
+mass 17.147
+mass 5.15
+surfaceGrav 11.15
+surfaceGrav 1.14
+escapeVelocity 23.5
+siderealDay 58000.31999999999
+siderealDay 57996.0
+rotVelocity 2.68
+axialTilt 28.32
+rightAscNorthPole 299.3
+declination 42.95
+albedo 0.29
+albedo 0.41
+magnitude 8.02
+angularSize 2.2
+temperatures yes
+tempName 1
+meanTemp 72.0
+meanTemp 55.0
+adjectives Neptunian
+atmosphere yes
+scaleHeight 19.7
+atmosphereComposition 80
+atmosphereComposition 19
+atmosphereComposition 1.5
+atmosphereComposition ~0.019% hydrogen deuteride
+atmosphereComposition ~0.00015% ethane
+atmosphereComposition Ices:
+atmosphereComposition Ammonia
+atmosphereComposition water
+atmosphereComposition ammonium hydrosulfide
+atmosphereComposition methane ice

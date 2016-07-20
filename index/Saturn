@@ -1,0 +1,66 @@
+name Saturn
+symbol 25
+caption Saturn in natural color, photographed by Cassini
+caption at its 2009 equinox.
+epoch Epoch_(astronomy)
+period *
+period Saturnian
+period Solar_time
+period s
+synodicPeriod 3.2666975999999993E7
+avgSpeed 9.69
+inclination *
+inclination to
+inclination Ecliptic
+inclination * 5.51° to
+inclination Sun
+inclination 's
+inclination Equator
+inclination * 0.93° to
+inclination Invariable_plane
+satellites 62
+maximumDistanceFromSun 1.5E9
+minimumDistanceFromSun 1.35E9
+physicalCharacteristics yes
+equatorialRadius *
+equatorialRadius Earths
+polarRadius *
+surfaceArea *
+volume *
+mass *
+surfaceGrav * 10.44
+surfaceGrav Acceleration
+surfaceGrav * 1.065 ''
+surfaceGrav G-force
+surfaceGrav ''
+escapeVelocity 35.5
+siderealDay 37980.0
+rotVelocity *
+axialTilt 26.73
+rightAscNorthPole *
+rightAscNorthPole * 40.589°
+declination 83.537
+albedo * 0.342 \n* 0.47
+magnitude +1.47 to −0.24
+angularSize 14.5
+temperatures yes
+tempName 1
+meanTemp 134.0
+tempName 0.1
+meanTemp 84.0
+adjectives Saturnian, Cronian
+atmosphere yes
+scaleHeight 59.5
+atmosphereComposition by volume:\nIces:\n* ammonia \n* water \n* ammonium hydrosulfide
+align right
+direction vertical
+width 220
+image Saturn from Cassini Orbiter .jpg
+caption The rings of Saturn  are the most massive and conspicuous in the Solar System.
+image Saturn's A Ring From the Inside Out.jpg
+caption False-color UV image of Saturn's outer B and A rings; dirtier ringlets in the Cassini Division and Encke Gap show up red.
+colwidth 30
+c Saturn
+q no
+s no
+b Solar System/Saturn

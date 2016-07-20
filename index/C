@@ -1,0 +1,12 @@
+name Latin Capital Letter C
+name &#160; Latin Small Letter C
+map EBCDIC family
+map1char 3.0
+map1char 83
+map ASCII 1
+map2char 43
+map2char 63
+nato Charlie
+morse –·–·
+character 3.0
+braille ⠉

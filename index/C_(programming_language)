@@ -1,0 +1,60 @@
+name C
+paradigm Imperative , structured
+logo File:The C Programming Language logo.svg
+logoSize 140
+logoAlt Text in light blue serif capital letters on white background and very large light blue sans-serif letter C.
+logoCaption The C Programming Language , the seminal book on C
+designer Dennis_Ritchie
+developer Dennis Ritchie & Bell Labs ; ANSI X3J11 ;
+developer ISO/IEC JTC1/SC22/WG14
+latestReleaseVersion 11.0
+turingComplete Yes
+typing Type_system
+typing Strong_and_weak_typing
+typing Manifest_typing
+typing Nominal_type_system
+implementations GNU_Compiler_Collection
+implementations Clang
+implementations Intel_C++_Compiler
+implementations ,
+implementations MSVC,
+implementations Pelles_C
+implementations Watcom_C/C++_compiler
+influencedBy B , ALGOL 68, Assembly, PL/I, FORTRAN
+influenced Category:C_programming_language_family
+influenced AMPL
+influenced AWK
+influenced C_shell
+influenced C++
+influenced C--
+influenced C_Sharp_(programming_language)
+influenced Objective-C
+influenced BitC
+influenced D_(programming_language)
+influenced Go_(programming_language)
+influenced Rust_(programming_language)
+influenced Java_(programming_language)
+influenced JavaScript
+influenced Limbo_(programming_language)
+influenced LPC_(programming_language)
+influenced Perl
+influenced PHP
+influenced Pike_(programming_language)
+influenced Processing_(programming_language)
+influenced Python_(programming_language)
+influenced Seed7
+influenced Verilog
+dialects Cyclone_(programming_language)
+dialects Unified_Parallel_C
+dialects Split-C
+dialects Cilk
+dialects C*
+operatingSystem Cross-platform
+fileExt ,
+wikibooks C Programming
+v Topic:C
+commons C
+b C programming language
+voy no
+s no
+wikt no

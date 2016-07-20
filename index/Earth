@@ -1,0 +1,76 @@
+bgcolour #c0c0ff
+name Earth
+symbol 18
+caption \
+epoch Epoch_(astronomy)
+ascNode deg to J2000 ecliptic
+argPeri deg
+satellites Moon
+satellites ;
+satellites 1265
+satellites Satellite
+satellites s
+allsatellites yes
+physicalCharacteristics yes
+flattening 1
+volume Figure_of_the_Earth
+momentOfInertiaFactor 0.3307
+axialTilt 23.4392811
+atmosphere yes
+temperatures yes
+tempName Kelvin
+minTemp 184.0
+meanTemp 288.0
+maxTemp 330.0
+tempName Celsius
+minTemp -89.2
+meanTemp 15.0
+maxTemp 56.7
+atmosphereComposition 78.08
+atmosphereComposition Nitrogen
+atmosphereComposition 20.95
+atmosphereComposition Oxygen
+atmosphereComposition 0.93
+atmosphereComposition Argon
+atmosphereComposition 0.039
+atmosphereComposition Carbon_dioxide
+atmosphereComposition ~ 1%
+atmosphereComposition Water_vapor
+note no
+date August 2015
+align right
+direction vertical
+image Worldheight.jpg
+height 220
+width 220
+caption World map color-coded by relative height
+caption Features of Earth's solid surface shown as percentages of the planet's total surface area
+value 22.1
+label Oceanic ridges
+value 29.8
+color silver
+label Ocean basin floors
+value 10.3
+label Continental mountains
+value 18.9
+label Continental lowlands
+value 11.4
+label Continental shelves and slopes
+value 3.8
+label Continental rise
+value 3.7
+label Volcanic island arcs, trenches, submarine volcanoes, and hills
+captionAlign center
+headerAlign center
+image FullMoon2010.jpg
+caption Full moon as seen from Earth's Northern Hemisphere
+image Earth-Moon.svg
+caption Details of the Earth–Moon system, showing the radius of each object and the Earth–Moon barycenter. The Moon's axis is located by Cassini's third law.
+width 250
+align center
+direction horizontal
+image NASA-Apollo8-Dec24-Earthrise.jpg
+caption \
+image The Earth seen from Apollo 17.jpg
+caption \
+title Articles related to Earth

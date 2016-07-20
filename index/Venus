@@ -1,0 +1,106 @@
+name Venus
+symbol 25
+caption A real-colour image of Venus taken by Mariner 10 processed from two filters. The surface is obscured by thick sulfur dioxide clouds.
+epoch Epoch_(astronomy)
+aphelion *
+perihelion *
+semimajor *
+eccentricity 0.00677323
+period *
+period * 1.92 Venus
+period Solar_time
+synodicPeriod 5.0450688E7
+avgSpeed 35.02
+inclination *
+inclination to
+inclination Ecliptic
+inclination * 3.86° to
+inclination Sun
+inclination 's
+inclination Equator
+inclination * 2.19° to
+inclination Invariable_plane
+ascNode 76.678
+argPeri 55.186
+meanAnomaly 50.115
+satellites None
+allsatellites yes
+physicalCharacteristics yes
+meanRadius *
+flattening 0
+surfaceArea *
+surfaceArea * 0.902 Earths
+volume *
+volume * 0.866 Earths
+mass *
+mass * 0.815 Earths
+surfaceGrav *
+surfaceGrav 0.904
+surfaceGrav G-force
+surfaceGrav ''
+axialTilt 2.64
+axialTilt 177.36
+rightAscNorthPole *
+rightAscNorthPole * 272.76°
+declination 67.16
+albedo * 0.67 \n* 0.90
+magnitude * brightest −4.9 \n* −3.8
+angularSize 9.7
+temperatures yes
+tempName Kelvin
+meanTemp 737.0
+tempName Celsius
+meanTemp 462.0
+meanName Fahrenheit
+adjectives Venusian or  Cytherean, Venerean
+atmosphere yes
+surfacePressure 92.0
+atmosphereComposition * ≈&thinsp;96.5%
+atmosphereComposition Carbon_dioxide
+atmosphereComposition * ≈&thinsp;3.5%
+atmosphereComposition Nitrogen
+atmosphereComposition * 0.015%
+atmosphereComposition Sulfur_dioxide
+atmosphereComposition * 0.007%
+atmosphereComposition Argon
+atmosphereComposition * 0.002%
+atmosphereComposition Water_vapor
+atmosphereComposition * 0.0017%
+atmosphereComposition Carbon_monoxide
+atmosphereComposition * 0.0012%
+atmosphereComposition Helium
+atmosphereComposition * 0.0007%
+atmosphereComposition Neon
+atmosphereComposition * trace
+atmosphereComposition Carbonyl_sulfide
+atmosphereComposition Hydrogen_chloride
+atmosphereComposition Hydrogen_fluoride
+align right
+direction vertical
+backgroundColor light grey
+width 230
+width 158
+image Venuspioneeruv.jpg
+alt Cloud structure in the Venusian atmosphere in 1979, revealed by observations in the ultraviolet band by Pioneer Venus Orbiter
+caption Cloud structure in the Venusian atmosphere in 1979, revealed by observations in the ultraviolet band by Pioneer Venus Orbiter
+width 170
+image Venus globe.jpg
+alt A false-colour image of Venus: ribbons of lighter colour stretch haphazardly across the surface. Plainer areas of more even colouration lie between.
+caption Global radar view of Venus  from the Magellan imaging between 1990 and 1994
+width 215
+image Mgn p39146.png
+alt Impact craters on the surface of Venus
+caption Impact craters on the surface of Venus
+align center
+direction horizontal
+header Atmospheric composition
+footer Green colour – water vapour, red – carbon dioxide, WN – wavenumber .
+width 380
+image Synthetic atmosphere absorption spectrum.gif
+alt Synthetic stick absorption spectrum of a simple gas mixture corresponding to Earth's atmosphere
+caption Synthetic stick absorption spectrum of a simple gas mixture corresponding to Earth's atmosphere
+width 400
+image Synthetic Venus atmosphere absorption spectrum.gif
+alt Venusian atmosphere composition based on HITRAN data created using Hitran on the Web system.
+caption Venusian atmosphere composition based on HITRAN data created using Hitran on the Web system.
+colwidth 30

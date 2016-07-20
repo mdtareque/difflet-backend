@@ -1,0 +1,36 @@
+name Go
+logo File:golang.png
+logoSize 300
+paradigm Compiled_language
+paradigm Concurrent_computing
+paradigm Imperative_programming
+paradigm Structured_programming
+designer Robert_Griesemer
+designer Rob_Pike
+designer Ken_Thompson
+developer Google
+latestReleaseVersion version 1.5.1
+typing Strong_and_weak_typing
+typing Type_system
+typing Type_inference
+typing Structural_type_system
+implementations gc, gccgo
+programmingLanguage Go, Asm
+influencedBy C_(programming_language)
+influencedBy Occam_(programming_language)
+influencedBy Limbo_(programming_language)
+influencedBy Modula
+influencedBy Newsqueak
+influencedBy Oberon_(programming_language)
+influencedBy Pascal_(programming_language)
+influencedBy Smalltalk
+operatingSystem Linux
+operatingSystem OS_X
+operatingSystem FreeBSD
+operatingSystem NetBSD
+operatingSystem OpenBSD
+operatingSystem Microsoft_Windows
+operatingSystem Plan_9_from_Bell_Labs
+operatingSystem DragonFly_BSD
+operatingSystem Solaris_(operating_system)
+license BSD-style + Patent grant

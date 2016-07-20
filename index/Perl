@@ -1,0 +1,39 @@
+name Perl
+logo File:Programming-republic-of-perl.png
+paradigm multi-paradigm: functional, imperative, object-oriented , reflective, procedural, event-driven, generic
+designer Larry_Wall
+developer Larry Wall
+latestReleaseVersion 5.22
+latestPreviewVersion 5.23
+turingComplete Yes
+typing Dynamic
+influencedBy AWK
+influencedBy Smalltalk
+influencedBy Lisp_(programming_language)
+influencedBy C_(programming_language)
+influencedBy C++
+influencedBy Sed
+influencedBy Unix_shell
+influencedBy Pascal_(programming_language)
+influenced Python_(programming_language)
+influenced PHP
+influenced Ruby_(programming_language)
+influenced ECMAScript
+influenced JavaScript
+influenced LPC_(programming_language)
+influenced Windows_PowerShell
+influenced Falcon_(programming_language)
+influenced Perl_6
+influenced Qore_(programming_language)
+influenced Julia_(programming_language)
+programmingLanguage C_(programming_language)
+operatingSystem Cross-platform
+license GNU General Public License or Artistic License
+fileExt .pl .pm .t .pod
+wikibooks Perl Programming
+commons Category:Perl
+v Topic:Perl
+n no
+q Perl
+s no
+b Perl Programming
