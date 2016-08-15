@@ -1,3 +1,11 @@
+
+Need to download nltk corpus, using below steps
+
+>>> import nltk
+>>> nltk.download_gui()
+# download all, takes 1 hours for entire download
+
+
 ipynb extension files are generated and to be viewed in Ipython Notebook.
 Install ipython notebook, run
 $ ipython notebook
