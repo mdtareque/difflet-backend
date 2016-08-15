@@ -3,8 +3,23 @@ import nltk
 from nltk.corpus import wordnet
 
 """ Similarity between two words
-Threshold decided manually, can be tweaked after discussion
+Threshold decided manually, can be tweaked after discussion """
+
+""""
+Sample Output:
+    similarity(        sparrow, parrot         ) = 0.869565217391  ==> Very similar
+    similarity(           ship, boat           ) = 0.909090909091  ==> Very similar
+
+    similarity(            cat, elephant       ) = 0.814814814815  ==> Little similar
+
+    similarity(        dolphin, ship           ) = 0.296296296296  ==> Not similar
+    similarity(        giraffe, tiger          ) = 0.521739130435  ==> Not similar
+    similarity(          sheep, ship           ) = 0.296296296296  ==> Not similar
+    similarity(           ship, cat            ) = 0.32            ==> Not similar
+
 """
+
+
 def similarity(a, b):
     suf=".n.01"
     a, b = a+suf, b+suf
@@ -39,3 +54,6 @@ sim("dolphin", "ship")
 sim("giraffe", "tiger")
 sim("sheep", "ship")
 sim("ship", "cat")
+
+
+
