@@ -1,0 +1,5 @@
+ipynb extension files are generated and to be viewed in Ipython Notebook.
+Install ipython notebook, run
+$ ipython notebook
+And in browser window open the ipynb file
+
