@@ -1,0 +1,39 @@
+
+https://mdtareque.pythonanywhere.com/play/default/index/!arg1/arg2
+request.args
+
+
+Todo UI:
+1. simple search bar.
+2. add autocomplete to 2nd text box
+3. add search box on every page
+4. add recent diffs on front page
+5. add recent diffs OR matching diffs on diff page
+6. fix header after scroll
+7. add social sharing
+8. add 'was this difference page helpful'?
+9. youtube video embed 'difference between abc vs def'? check all options and api
+10. create fb/twitter/g+ page
+
+
+Images:
+1. Flicker api noemailuse@yahoo.com password
+    sizes: take url_z https://www.flickr.com/services/api/misc.urls.html
+    all params info : https://www.flickr.com/services/api/flickr.photos.search.html
+    live demo https://www.flickr.com/services/api/explore/flickr.photos.search
+    demo url: https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=198db1722be7b5f0146e5&tags=elephant&sort=relevance&safe_search=1&content_type=7&media=photos&extras=url_n&per_page=5&page=1&format=json&nojsoncallback=1&api_sig=8b4858372dc39009
+
+2. css to center in 250x250
+    iwidth: 250px;
+    height: 250px;
+    background: url("https://farm9.staticflickr.com/8787/28893482942_d8b80e3ce9_n.jpg") center center rgb(238, 238, 238);
+
+3. js to rotate images:
+    s=<next image url>
+    document.getElementById('a').style.backgroundImage="url(" +s + ")";
+
+would need to pass variable from python to javascript
+    http://stackoverflow.com/questions/31216574/how-to-pass-data-from-python-to-javascript-in-web2py
+
+gmaps for locations:
+http://stackoverflow.com/questions/2330197/how-to-disable-mouse-scroll-wheel-scaling-with-google-map-api
