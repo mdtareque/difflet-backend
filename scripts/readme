@@ -4,10 +4,13 @@ Need to download nltk corpus, using below steps
 >>> import nltk
 >>> nltk.download_gui()
 # download all, takes 1 hours for entire download
+>>> nltk.help.upenn_tagset()
 
 
 ipynb extension files are generated and to be viewed in Ipython Notebook.
 Install ipython notebook, run
 $ ipython notebook
 And in browser window open the ipynb file
+
+
 

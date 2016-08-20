@@ -39,5 +39,5 @@ text = o.text[2:-1] # remove round bracket for json parsing
 j = json.loads(text)
 print json.dumps(j, indent=4, sort_keys=True)
 
-image_urls = [ j['photos']['photo'][i]['url_n'] for i in range(PER_PAGE) ]
+image_urls = [ j['photos']['photo'][i]['url_n'] for i in range(len(j['photos']['photo'])) ]
 print "\n".join(image_urls)
